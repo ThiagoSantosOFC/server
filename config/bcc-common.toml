@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 0
+	modpackProjectID = 643605
 	#The name of the modpack
-	modpackName = "PLEASE_CHANGE_ME"
+	modpackName = "SteamPunk"
 	#The version of the modpack
-	modpackVersion = "CHANGE_ME"
+	modpackVersion = "v24"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
